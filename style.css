@@ -1,5 +1,12 @@
 h1{
-	color:blue}
+    padding: 15px;
+	background-color: azure;
+	margin: 10px;
+	color:blue
+
+}
+
 	p{
-		color:red
+		color:red;
+		text-align: center;
 	}
